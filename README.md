@@ -69,5 +69,5 @@ Your deliverables should include:
 * Your application should be hosted with a password to enter.
 * You should provide a **README** containing instructions on how to clone and start your application locally, as well as the password for the live site.
 
-Please create a **public GitHub repo** with your solution and share instructions with the reviewer(s) on how to run your application(s). Please give the following GitHub users access: [Michael](https://github.com/michaeloki), [Paul](https://github.com/Paul-Harrington) (Read access is sufficient).
+Please create a **public GitHub repo** with your solution and share instructions with the reviewer(s) on how to run your application(s). Please send the link to [Careers](mailto:careers@basalt.co) or [Lerato](mailto:lerato@basalt.co)
 
